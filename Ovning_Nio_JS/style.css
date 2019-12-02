@@ -1,0 +1,15 @@
+﻿body
+{
+}
+
+footer {
+    background-color: lightcoral;
+}
+
+header {
+    background-color: lightgray;
+}
+
+.inputs {
+    display: block;
+}
